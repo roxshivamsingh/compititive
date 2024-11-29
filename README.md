@@ -38,16 +38,3 @@ Python is a great choice for competitive programming because:
 > ⚠️ Note: Python can be slower for very large inputs due to its interpreted nature. Use it for contests with moderate constraints or switch to PyPy for better performance.
 
 ---
-
-## Setup
-
-1. **Install Python**:
-
-   - Download and install Python from [python.org](https://www.python.org/).
-   - Ensure `pip` (Python's package manager) is installed.
-
-2. **Clone this repository**:
-   ```bash
-   git clone https://github.com/your-username/competitive-programming-python.git
-   cd competitive-programming-python
-   ```
